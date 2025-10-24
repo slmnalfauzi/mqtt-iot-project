@@ -92,6 +92,7 @@ _Tambahkan screenshot dashboard Anda di sini agar README lebih menarik!_
 
 ## Kontribusi
 Pull request sangat diterima! Silakan ajukan saran perbaikan atau fitur baru.
+Salman Alfauzi Asngari | 23106050013
 
 ## Lisensi
 MIT License
